@@ -2,8 +2,8 @@
 
 ##
 
-- 🔭 Hoje eu trabalho como suporte técnico
-- 🌱 Sou bolsista no programa de formação: Certified Tech Developer (Digital House)
+- 🖥 Hoje eu trabalho como suporte técnico
+- 📚 Sou bolsista no programa de formação: Certified Tech Developer (Digital House)
 <div align="center">
   <a href="https://github.com/dougsn">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dougsn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
