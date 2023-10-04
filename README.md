@@ -2,7 +2,7 @@
 
 ##
 
-- 🖥 Hoje eu trabalho como suporte técnico e Freelancer como desenvolvedor de software.
+- 🖥 Atualmente trabalho como suporte técnico e Freelancer como desenvolvedor de software.
 - 👨🏽‍🎓 Sou formado em Logística e Análise e Desenvolvimento de Sistemas
 - 👨🏽‍💻 Minha Stack atual é <img align="center" alt="Dougsn-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> para construção de API's Rest,  <img align="center" alt="Dougsn-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> para construção de interfaces dinâmicas e <img align="center" alt="Dougsn-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> para persistência dos dados.
 <div align="center">
